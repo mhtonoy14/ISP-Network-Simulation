@@ -129,7 +129,9 @@ Expected: Success — Branch Servers allowed to reach Data Center servers
 
 **K M Mazharul Haque**
 BSc in Computer Science and Engineering — American International University Bangladesh
+
 IT Infrastructure & Cybersecurity Intern — Goinnovior Limited
+
 CCNA In Progress — Expected September 2026
 
 🔗 [LinkedIn](https://www.linkedin.com/in/k-m-mazharul-haque)
